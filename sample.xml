@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>     
+ <response>     
+ <collectdtmf l="1" t="#" o="5000">     
+ <playtext>Please enter your pin number
+ </playtext>     
+ </collectdtmf>     
+ </response>    
